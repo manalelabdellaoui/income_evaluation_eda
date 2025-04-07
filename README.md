@@ -29,7 +29,7 @@ Qualitative features:
 - `native_country`: country of origin.
 
 In part 2 of this project, a few quantitative features have been added:
-- `education_compact`: education levels aggregated into 7 broader categories (no degree, high school or GED', 'associate\'s', 'bachelor\'s', 'master\'s', 'professional school', 'doctorate');
+- `education_compact`: education levels aggregated into 7 broader categories (no degree, high school or GED, associate's, bachelor's, master's, professional school, doctorate);
 - `education_compact_num`: the 7 categories of education converted into numerical categories 1-7;
 - `us`: 1 if individual is from the US, 0 otherwise;
 - `married`: 1 is individual is married, 0 otherwise.
