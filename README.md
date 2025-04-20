@@ -42,3 +42,8 @@ Men make up a significantly larger portion of the higher income class. The lower
 A majority of both income classes is white, with larger shares of Black and Asian/Pacific Islander populations in the lower income class. The 'Other' category is three times larger in the lower income class. A new `us` column is created to distinguish US residents (89.6% of the sample). Significant differences in immigrant background are seen in countries like Mexico, the Philippines, and others, correlating with income class. Most people work in the private sector, but relatively more higher-income earners work in government or are self-employed, especially with incorporated businesses. Physical jobs are more common in the lower income class, while jobs requiring education or experience are more common in the higher income class.
 
 The `relationship` feature indicates a person’s role in their household, such as wife, husband, or living with a parent. Married people are more likely to be in the higher income class, which is expected as they often have more stability and share household responsibilities. A new binary column has been created to label people as married or unmarried based on their living situation, simplifying the data for future analysis.
+
+## Dashboard
+I've created a simple and concise interactive dashboard for a quick overview of the data we were working with. It's created with Power BI and can be downloaded [here](https://github.com/manalelabdellaoui/income-evaluation-eda/blob/main/dashboard.pbix).
+
+![Quick and concise dashboard summarizing how the socio-economic data relate to income](dashboard.png)
