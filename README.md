@@ -46,4 +46,4 @@ The `relationship` feature indicates a person’s role in their household, such 
 ## Dashboard
 I've created a simple and concise interactive dashboard for a quick overview of the data we were working with. It's created with Power BI and can be downloaded [here](https://github.com/manalelabdellaoui/income-evaluation-eda/blob/main/dashboard.pbix).
 
-![Quick and concise dashboard summarizing how the socio-economic data relate to income](dashboard.png)
+![Quick and concise dashboard summarizing how the socio-economic data relate to income](dashboard_still.png)
