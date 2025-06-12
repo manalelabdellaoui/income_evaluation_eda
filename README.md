@@ -3,7 +3,7 @@
 ## Introduction
 This dataset contains 32,561 rows and 15 columns. Each row represents a subset of a population. The columns contain socio-economic data. The data set can be found on [Kaggle](https://www.kaggle.com/datasets/lodetomasi1995/income-classification/).
 
-We are interested in the relationship between various socio-economic factors on the income. Income is represented by two classes: The class that earn 50,000 a year or less and the class earning more than 50,000 a year. In the [first part](https://github.com/manalelabdellaoui/income_evaluation_eda/blob/main/preprocessing.ipynb) of this project, we checked the data for duplicates, missing values, typos and other inconsistencies and corrected them where possible. In the [second part](https://github.com/manalelabdellaoui/income_evaluation_eda/blob/main/exploratory_data_analysis.ipynb), we went through all the socio-economic information and visualized and analyzed their direct relationship with the income as well as the combined effects of factors on income.
+We are interested in the relationship between various socio-economic factors on the income. Income is represented by two classes: The class that earn 50,000 a year or less and the class earning more than 50,000 a year. In the [first part](https://github.com/mea45/income_evaluation_eda/blob/main/preprocessing.ipynb) of this project, we checked the data for duplicates, missing values, typos and other inconsistencies and corrected them where possible. In the [second part](https://github.com/mea45/income_evaluation_eda/blob/main/exploratory_data_analysis.ipynb), we went through all the socio-economic information and visualized and analyzed their direct relationship with the income as well as the combined effects of factors on income.
 
 Note that this project has been conducted with the aim to use the findings in a future project where a classification model will be trained to predict the income class using the socio-economic data. Once that project is finished, it will be linked here.
 
@@ -35,7 +35,7 @@ In part 2 of this project, a few quantitative features have been added:
 - `married`: 1 is individual is married, 0 otherwise.
 
 ## Dashboard
-I've created a simple and concise interactive dashboard for a quick overview of the data we were working with. It's created with Power BI and can be downloaded [here](https://github.com/manalelabdellaoui/income-evaluation-eda/blob/main/dashboard.pbix).
+I've created a simple and concise interactive dashboard for a quick overview of the data we were working with. It's created with Power BI and can be downloaded [here](https://github.com/mea45/income-evaluation-eda/blob/main/dashboard.pbix).
 
 ![Quick and concise dashboard summarizing how the socio-economic data relate to income](dashboard_still.png)
 
